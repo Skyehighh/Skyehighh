@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skyehighh
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning how to use powershell
+- 🌱 I’m currently learning how to code through apps
 - 💞️ I’m looking to collaborate on tricks and tips 
 - 📫 How to reach me message me through here
 
